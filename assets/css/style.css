@@ -55,19 +55,24 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0 0 10px;
 }
 h1 {
-	font-family: 'Lobster', cursive;
-	text-transform: capitalize;
+	padding: 20px;
+	font-family: 'Arial', cursive;
 	color: #ffd57a;
 	margin-bottom: 65px;
+	background-color: #00467E;
+	font-family: 'Arial', cursive;
+	color: #FFFFFF;
+	margin-bottom: 65px;
+	border-radius: 5px;
 }
 h2 {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Arial', cursive;
 	font-weight: 700;
-	color: #feff96;
+	color: #FFFFFF;
 	text-transform: uppercase;
 }
 h3 {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Arial', cursive;
 	font-weight: 400;
 	color: #fff;
 }
